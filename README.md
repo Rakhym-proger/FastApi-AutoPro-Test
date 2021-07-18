@@ -1,0 +1,1 @@
+Test FastAPI project for AutoPro
